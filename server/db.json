@@ -1,0 +1,18 @@
+{
+  "credentials": [
+    {
+      "id": 1,
+      "name": "test123",
+      "url": "https://testurl.com",
+      "username": "testUsename",
+      "password": "Test Password"
+    },
+    {
+      "id": 3,
+      "name": "test1234",
+      "url": "https://testurl1.com",
+      "username": "testUsename2",
+      "password": "Test Password2"
+    }
+  ]
+}
